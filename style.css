@@ -1,0 +1,26 @@
+.textimage1 {
+    font-size: 1.2rem;
+    font-weight: bold;
+    line-height: 1.5;
+    color: #2c3e50;
+  }
+  
+  .textimage2 {
+    font-size: 1.2rem;
+    font-weight: bold;
+    line-height: 1.5;
+    color: #2c3e50;
+  }
+  
+  .bg-card1 {
+      background-image: url(https://cdn.pixabay.com/photo/2020/06/12/03/06/magnifying-glass-5288877__340.jpg);
+      background-repeat: no-repeat;
+      background-size: cover;
+  }
+  
+  
+  .bg-card2 {
+      background-image: url(https://cdn.pixabay.com/photo/2018/02/23/04/38/laptop-3174729_1280.jpg);
+      background-repeat: no-repeat;
+      background-size: cover;
+  }
